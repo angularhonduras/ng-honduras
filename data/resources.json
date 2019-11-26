@@ -1,0 +1,261 @@
+{
+  "title": "NG Honduras 2020",
+  "description": "La primera conferencia de Angular en Honduras",
+  "image": "images/social-share.jpg",
+  "keywords": "angular, angular honduras, conferencia de angular",
+  "dates": "Febrero 28-29, 2020",
+  "partnershipProposition": "https://bit.ly/dfua17-partners",
+  "share": "Compartir",
+  "followOur": "Sigue nuestro",
+  "followUs": "Síguenos",
+  "emailUs": "Contáctanos",
+  "partnershipResources": "Partnership Resources",
+  "eventResources": "Event Resources",
+  "buyTicket": "Comprar Ticket",
+  "signIn": "Sign in",
+  "signOut": "Sign out",
+  "viewHighlights": "View Highlights",
+  "BeaSpeaker": "SER UN CONFERENCISTA",
+  "BeOurSponsor":"SER NUESTRO PATROCINADOR",
+  "offlineMessage": "You can still work offline.",
+  "cachingComplete": "Caching complete! Future visits will work offline.",
+  "newVersionAvailable": "A new version of this app is available.",
+  "refresh": "Refresh",
+  "position": "Position",
+  "country": "Country",
+  "time": "Time",
+  "faq": "/data/faq.md",
+  "cod": "/data/cod.md",
+  "footer": {
+    "blog": "Blog"
+  },
+  "mySchedule": {
+    "title": "My Schedule",
+    "browseSession": "Browse sessions"
+  },
+  "footerRelBlock": [
+    {
+      "title": "Sobre Nosotros",
+      "links": [
+        {
+          "name": "NG Honduras",
+          "url": "/blog/posts/about-ng-honduras/",
+          "newTab": false
+        },
+        {
+          "name": "Conoce al equipo",
+          "url": "/team/",
+          "newTab": false
+        }
+      ]
+    },
+    {
+      "title": "Otros Recursos",
+      "links": [
+        {
+          "name": "Call for Presenters",
+          "url": "https://docs.google.com/forms/u/1/d/e/1FAIpQLSej6MAID9G4DwH1YEFlEZuJK-5mGV3Tzq729XDh-OdEAR6qgQ/viewform?usp=sf_link",
+          "newTab": true
+        },
+        {
+          "name": "Código de Conducta",
+          "url": "/cod",
+          "newTab": false
+        },
+        {
+          "name": "Preguntas Frecuentes",
+          "url": "#",
+          "newTab": false
+        }
+      ]
+    }
+  ],
+  "subscribeNote": "No es spam, solo las últimas noticias y actualizaciones!",
+  "codeOfConduct": "Code of Conduct",
+  "aboutBlock": {
+    "title": "Acerca de NG Honduras",
+    "callToAction": {
+      "featuredSessions": {
+        "description": "NG Honduras será la primera conferencia sobre Angular en Honduras, donde personas  nacionales e internacionales asistirán para poder compartir ideas, conocimientos, experiencias y crear nuevas conexiones. Es un evento sin fines de lucro organizado por la comunidad.",
+        "label": "Conoce al equipo",
+        "link": "/team",
+        "newTab": false
+      },
+      "howItWas": {
+        "description": "Described by many as 'Google I/O of Ukraine', our team creates DevFest to be the best place for experience sharing in a phenomenal atmosphere.",
+        "label": "See how it was in 2016",
+        "youtubeId": "TdpbgRgz6eE"
+      }
+    },
+    "statisticsBlock": {
+      "attendees": {
+        "label": "Asistentes",
+        "number": "180 +"
+      },
+      "days": {
+        "label": "Días",
+        "number": "2"
+      },
+      "sessions": {
+        "label": "Sesiones",
+        "number": "10 +"
+      },
+      "workshops": {
+        "label": "Talleres",
+        "number": "2"
+      }
+    }
+  },
+  "ticketsBlock": {
+    "title": "Tickets",
+    "ticketsDetails": "Tickets grant access to all conference sections, coffee breaks, lunch and party. Accommodation is NOT included in the ticket price.",
+    "soldOut": "You missed it!",
+    "notAvailableYet": "Not available yet",
+    "save": "Save ${discount}% today"
+  },
+  "partnersBlock": {
+    "title": "Patrocinadores",
+    "button": "Conviértete en nuestro patrocinador",
+    "form": {
+      "title": "Conviértete en nuestro patrocinador",
+      "submitLabel": "Submit",
+      "fullName": "Full Name",
+      "companyName": "Company Name"
+    },
+    "toast": "We will contact you soon!"
+  },
+  "featuredVideos": {
+    "title": "DFUA'16 featured videos",
+    "callToAction": {
+      "label": "See all videos",
+      "link": "https://www.youtube.com/playlist?list=PLt8lEzcLNl31AouwDkbLbLARlQFwNS2en"
+    }
+  },
+  "blog": {
+    "published": "Published",
+    "suggested": "Up next"
+  },
+  "latestPostsBlock": {
+    "title": "The latest news",
+    "callToAction": {
+      "label": "View all stories",
+      "link": "/blog/"
+    }
+  },
+  "speakers": {
+    "skills": "Skills",
+    "previousYears": "Years",
+    "previousYear": "Year"
+  },
+  "speakersBlock": {
+    "title": "Top Conferencistas",
+    "callToAction": {
+      "label": "Ver todos los conferencistas",
+      "link": "/speakers/"
+    }
+  },
+  "previousSpeakersBlock": {
+    "title": "Previous speakers",
+    "callToAction": {
+      "label": "View all",
+      "link": "/previous-speakers/"
+    }
+  },
+  "galleryBlock": {
+    "title": "#dfua16 highlights",
+    "description": "This year's festival built lots of excitement. Check out photos from featured talks, hands-on learning sessions, and after-hours fun.",
+    "callToAction": {
+      "label": "See all photos",
+      "link": "https://goo.gl/photos/H8s3CtPexCzkLqSt9"
+    }
+  },
+  "mapBlock": {
+    "title": "Ubicación"
+  },
+  "subscribeBlock": {
+    "callToAction": {
+      "description": "Recibe notificaciones importantes sobre la conferencia",
+      "label": "Suscribete"
+    },
+    "yourEmail": "Su email",
+    "emailAddress": "email",
+    "firstName": "Nombres",
+    "lastName": "Apellidos",
+    "formTitle": "Obten las últimas actualizaciones sobre NG Honduras.",
+    "emailRequired": "Porfavor validar su email",
+    "subscribe": "Suscribete",
+    "subscribed": "Suscrito",
+    "close": "Cerrar",
+    "generalError": "Ha ocurrido algún error. Por favor, inténtelo de nuevo más tarde.",
+    "toast": "Suscrito con éxito!"
+  },
+  "team": {
+    "description": "Nuestro equipo está formado por miembros activos de la comunidad de Angular Honduras."
+  },
+  "schedule": {
+    "saveSessionsSignedOut": "Sign in to save sessions"
+  },
+  "sessionDetails": {
+    "contentLevel": "Content level",
+    "viewPresentation": "View presentation",
+    "viewVideo": "View video",
+    "speakers": "Speakers"
+  },
+  "speakerDetails": {
+    "sessions": "Sessions"
+  },
+  "notifications": {
+    "default": "Enable notifications",
+    "enabled": "We will miss you but you can unsubscribe anytime",
+    "blocked": "We can't send you notifications right now. Please enable notifications in your browser",
+    "subscribe": "Subscribe",
+    "unsubscribe": "Unsubscribe",
+    "enable": {
+      "label": "Enable",
+      "link": "https://pushassist.com/knowledgebase/how-to-enable-or-disable-push-notifications-on-chrome-firefox-safari-b/"
+    },
+    "toast": {
+      "title": "Open"
+    }
+  },
+  "aboutOrganizerBlock": {
+    "image": "/images/team.jpg",
+    "blocks": [
+      {
+        "title": "Organizadores",
+        "description": "<a href='http://ng-honduras.org' target='_blank'>NG Honduras</a> está organizado por 3 voluntarios de Honduras",
+        "callToAction": {
+          "label": "Nuestro equipo",
+          "link": "/team"
+        }
+      },
+      {
+        "title": "¿Qué es Angular Honduras?",
+        "description": "Es una comunidad abierta para compartir experiencias y conocimiento sobre Angular y Tecnologías Web.",
+        "callToAction": {
+          "label": "Leer más",
+          "link": "/blog/posts/about-ng-honduras/",
+          "newTab": false
+        }
+      }
+    ]
+  },
+  "signInDialog": {
+    "alreadyHaveAccount": "You already have an account",
+    "alreadyUsed": "You've already used",
+    "signInToContinue": {
+      "part1": "Sign in with",
+      "part2": "to continue."
+    }
+  },
+  "filters": {
+    "title": "Filters",
+    "results": "Results",
+    "tags": "Tags",
+    "complexity": "Complexity",
+    "clear": "Clear all"
+  },
+  "addToHomeScreen": {
+    "cta": "Add to Home Screen"
+  }
+}

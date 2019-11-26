@@ -1,0 +1,225 @@
+{
+  "organizer": {
+    "name": "Angular Honduras",
+    "twitter": "AngularHonduras",
+    "blog": "https://medium.com/gdg-lviv",
+    "url": "http://lviv.gdg.org.ua/"
+  },
+  "startDate": "28-02-2020",
+  "endDate": "29-02-2020",
+  "webapp": {
+    "shortName": "NG Honduras",
+    "themeColor": "#0049b0",
+    "backgroundColor": "#000000"
+  },
+  "dateFormat": {
+    "locale": "es-HN"
+  },
+  "hashtag": "NG Honduras",
+  "disabledSchedule": false,
+  "showSessionShortAbstract": true,
+  "navigation": [
+    {
+      "route": "home",
+      "permalink": "/",
+      "label": "Inicio"
+    },
+    {
+      "route": "speakers",
+      "permalink": "/speakers/",
+      "label": "Conferencistas"
+    },
+    {
+      "route": "team",
+      "permalink": "/team/",
+      "label": "Equipo"
+    },
+    {
+      "route": "blog",
+      "permalink": "/blog/",
+      "label": "Blog"
+    },
+    {
+      "route": "#",
+      "permalink": "https://docs.google.com/forms/d/e/1FAIpQLSej6MAID9G4DwH1YEFlEZuJK-5mGV3Tzq729XDh-OdEAR6qgQ/viewform?usp=sf_link",
+      "label": "Ser un Conferencista"
+    },
+    {
+      "route": "#",
+      "permalink": "https://docs.google.com/forms/d/e/1FAIpQLSet1OwHvY2w7AVse7vTLFEan5BVI9VYL7wYTUwS-bE3Zuk2gw/viewform",
+      "label": "Ser nuestro patrocinador"
+    }
+  ],
+  "heroSettings": {
+    "home": {
+      "description": "La Primera Conferencia de Angular en Honduras",
+      "background": {
+        "color": "#673ab7",
+        "image": "/images/backgrounds/home.jpg"
+      },
+      "fontColor": "#FFF"
+    },
+    "blog": {
+      "title": "Blog",
+      "metaDescription": "Read stories from our team",
+      "background": {
+        "color": "#FFF"
+      },
+      "fontColor": "#424242"
+    },
+    "speakers": {
+      "title": "Conferencistas",
+      "metaDescription": "Escuche a los Googlers, socios y oradores invitados que están construyendo el futuro de la nube. Vuelva a consultar a menudo a medida que agregamos más oradores, incluidos nuestros clientes y socios.",
+      "description": "Escuche a los Googlers, socios y oradores invitados que están construyendo el futuro de la nube. Vuelva a consultar a menudo a medida que agregamos más oradores, incluidos nuestros clientes y socios.",
+      "background": {
+        "color": "#FFF"
+      },
+      "fontColor": "#424242"
+    },
+    "previousSpeakers": {
+      "title": "Previous Speakers",
+      "metaDescription": "Check who was with us last years",
+      "background": {
+        "color": "#FFF"
+      },
+      "fontColor": "#424242"
+    },
+    "schedule": {
+      "title": "Schedule",
+      "metaDescription": "Choose your sessions to visit",
+      "background": {
+        "color": "#fff"
+      },
+      "fontColor": "#424242"
+    },
+    "team": {
+      "title": "Equipo",
+      "metaDescription": "Get more info about organizers",
+      "background": {
+        "color": "#fff"
+      },
+      "fontColor": "#424242"
+    },
+    "faq": {
+      "title": "FAQs",
+      "metaDescription": "Find you answer right here!",
+      "background": {
+        "color": "#fff"
+      },
+      "fontColor": "#424242"
+    },
+    "cod": {
+      "title": "Code Of Conduct",
+      "metaDescription": "Lear more about our expectations for all those who participate in our community",
+      "background": {
+        "color": "#fff"
+      },
+      "fontColor": "#424242"
+    }
+  },
+  "location": {
+    "label": "Ubicación",
+    "name": "Hotel Real InterContinental",
+    "city": "San Pedro Sula",
+    "short": "SPS, Honduras",
+    "address": "Hotel Real Intercontinental, CA-5, 21102 San Pedro Sula, Honduras",
+    "pointer": {
+      "latitude": 15.494454841870095,
+      "longitude": -88.03467321623332,
+      "zoom": 15
+    }, 
+    "mapCenter": {
+      "latitude": 15.4949952,
+      "longitude": -88.0344734
+    },
+    "description": "Hotel Real InterContinental, Este exclusivo hotel en el centro de la ciudad está a 2 km de la catedral de San Pedro Apóstol y a 3 km del Museo de Antropología e Historia."
+  },
+  "mediaQueries": {
+    "xs": {
+      "max": "639px"
+    },
+    "sm": {
+      "min": "640px",
+      "max": "811px"
+    },
+    "md": {
+      "min": "812px",
+      "max": "1023px"
+    },
+    "lg": {
+      "min": "1024px"
+    }
+  },
+  "socialNetwork": {
+    "follow": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/AngularHonduras/"
+      },
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/AngularHonduras/"
+      }
+    ],
+    "share": [
+      {
+        "name": "gplus",
+        "url": "https://plus.google.com/share?url="
+      },
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/sharer.php?u="
+      },
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/intent/tweet?text="
+      }
+    ]
+  },
+  "mailto": "angularhonduras@gmail.com",
+  "mailchimp": {
+    "url": "https://gdg.us11.list-manage.com/subscribe/post?u=b7e853a79164ddfdbda3ed77b&amp;id=7993e39fbe",
+    "name": "b_b7e853a79164ddfdbda3ed77b_7993e39fbe"
+  },
+  "signInProviders": {
+    "providersData": [
+      {
+        "name": "google",
+        "label": "Sign in with Google",
+        "url": "https://accounts.google.com"
+      },
+      {
+        "name": "facebook",
+        "label": "Sign in with Facebook",
+        "url": "https://www.facebook.com"
+      },
+      {
+        "name": "twitter",
+        "label": "Sign in with Twitter",
+        "url": "https://twitter.com"
+      }
+    ],
+    "allowedProvidersUrl": [
+      "https://accounts.google.com",
+      "https://www.facebook.com",
+      "https://twitter.com"
+    ]
+  },
+  "contentLoaders": {
+    "schedule": {
+      "itemsCount": 2
+    },
+    "blog": {
+      "itemsCount": 3
+    },
+    "speakers": {
+      "itemsCount": 4
+    },
+    "previousSpeakers": {
+      "itemsCount": 6
+    },
+    "tickets": {
+      "itemsCount": 5
+    }
+  }
+}

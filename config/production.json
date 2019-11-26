@@ -1,0 +1,15 @@
+{
+  "basepath": "/",
+  "url": "ng-honduras.firebaseapp.com",
+  "analytics": "UA-43643469-9",
+  "prefix": "/",
+  "firebase": {
+    "apiKey": "AIzaSyAL45db3jKy2pubdEh-rhrcu5fiR2OpcXU",
+    "authDomain": "ng-honduras.firebaseapp.com",
+    "databaseURL": "https://ng-honduras.firebaseio.com",
+    "projectId": "ng-honduras",
+    "storageBucket": "ng-honduras.appspot.com",
+    "messagingSenderId": "47430732019"
+  },
+  "googleMapApiKey": "AIzaSyDwGFSeHtUkpQsBpbOb-67etXxDIc1XEKE"
+}
